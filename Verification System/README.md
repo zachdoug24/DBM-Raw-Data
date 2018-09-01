@@ -1,8 +1,8 @@
 ## **Command**    
 _The text prior to the data name is a clickable link._
 
-- **[Verify](https://github.com/zachdoug24/dbm-projects/blob/verify/verify_cmd.js)** - `verify_cmd.js`    
-- **[Check Verify Channel](https://github.com/zachdoug24/dbm-projects/blob/verify/check_verify_event.js)** - `check_verify_event.js`
+- **[Verify](https://github.com/zachdoug24/DBM-Raw-Data/blob/master/Verification%20System/verify_cmd.js)** - `verify_cmd.js`    
+- **[Check Verify Channel](https://github.com/zachdoug24/DBM-Raw-Data/blob/master/Verification%20System/check_verify_event.js)** - `check_verify_event.js`
     
 ## **Syntax**
 `verify` - This will issue the code to the user.    
